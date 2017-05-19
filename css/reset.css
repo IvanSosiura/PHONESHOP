@@ -1,0 +1,7 @@
+html, body, div, ul, li, a, p, img, h1, h2, h3, h4, input, header, footer, span{
+	margin:0;
+	padding:0;
+	border:0;
+    text-decoration:none;
+    list-style:none;
+}
